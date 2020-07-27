@@ -38,7 +38,7 @@
 - 微博: https://weibo.com/Ninth_Day
 - Github：https://github.com/colourful987
 
-#### WWDC 10033 - Build SwiftUI views for 
+#### WWDC 10033 - Build SwiftUI views for
 - 作者：Edmond，iOS 开发者，目前就职于雪球。
 - 博客：https://looseyi.github.io
 - GitHub：https://github.com/looseyi
@@ -172,6 +172,9 @@
 
 #### WWDC20 10105 - Build for iPad
 - 作者：ttang，iOS 开发者，现就职于字节跳动飞书团队
+
+#### WWDC20 10648 - Unsafe Swift
+- 作者：venkman，iOS 开发者，现就职于字节跳动飞书团队
 
 #### WWDC20 10671 - Architecting for subscriptions
 - 作者：天豆，iOS 开发者，目前就职于字节跳动
