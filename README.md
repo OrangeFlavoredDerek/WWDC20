@@ -249,6 +249,7 @@
 - 作者：F010BE，iOS 初级开发者，目前就职于字节跳动
 
 #### WWDC 10028 - Meet WidgetKit
+#### WWDC 10165 - Embrace Swift type inference
 - 作者：zvving，iOS 开发者，目前就职于抖音音乐
 - 博客：https://www.jianshu.com/u/d6f6c875ad03
 - GitHub: https://github.com/zvving
