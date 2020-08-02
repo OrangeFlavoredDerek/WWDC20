@@ -250,7 +250,7 @@
 
 #### WWDC 10028 - Meet WidgetKit
 #### WWDC 10165 - Embrace Swift type inference
-- 作者：zvving，iOS 开发者，目前就职于抖音音乐
+- 作者：zvving，iOS 开发者，现就职于字节跳动音乐团队
 - 博客：https://www.jianshu.com/u/d6f6c875ad03
 - GitHub: https://github.com/zvving
 - Twitter: https://twitter.com/zvving
