@@ -300,3 +300,9 @@
 #### WWDC20 10091 - 编写会“失败”的测试
 - 作者：NathanSun, iOS开发者，目前就职于字节跳动音乐团队
 - GitHub: https://github.com/sunlei053667
+
+#### WWDC20 10111 - 探索现代的移动网络
+- 作者：盒子里的薛定谔(Darren Chen)，iOS 工程师，目前就职于百度 App 移动技术平台组
+- GitHub: https://github.com/DarrenChen123
+- 微博：[@Darren_Chen123](https://weibo.com/u/1608537070)
+- Twitter: [@chenjia2432_jia](https://twitter.com/chenjia2432_jia)
